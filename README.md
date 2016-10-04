@@ -3,12 +3,28 @@
 - [Free Online Books](#free-online-books)
 - [Online Courses](#online-courses)
 - [Other Resources](#other-resources)
+- [Inspiration](#inspiration)
 
 ## Assets
 
-### Typeography
-- [LostType](http://www.losttype.com/browse/)
+### Developement
 
+- [Codrops](http://tympanus.net/codrops/)
+
+#### WordPress
+- [Underscores](http://underscores.me/)
+#### FrameWorks
+- [BootStrap](http://getbootstrap.com/)
+
+### Design
+- [Mock-Up World](https://www.mockupworld.co/all-mockups/)
+
+### Typography
+- [LostType](http://www.losttype.com/browse/)
+- [Google Fonts](https://fonts.google.com/)
+- [Type Wolf](https://www.typewolf.com/guides)
+- [Typ.io](http://www.typ.io/)
+ 
 ## Free Online Books
 
 - [Learning JavaScript Design Patterns by Addy Osmani](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
@@ -36,6 +52,8 @@
 - [The Refactoring Tales](http://javascriptplayground.com/the-refactoring-tales/refactoring-tales.html)
 
 ## Online courses
+
+- [Hackerrank](https://www.hackerrank.com/)
 - [Codecademy](https://www.codecademy.com/)
 - [Khan Academy](https://www.khanacademy.org/computing/computer-programming)
 - [Code School](https://www.codeschool.com/)
@@ -52,3 +70,10 @@
 - [JavaScript Charts: The Definitive Guide](http://www.fusioncharts.com/javascript-charts-guide/)
 - [What happens when you type google.com into your browser's address box and press enter](https://github.com/alex/what-happens-when)
 - [Front-end Job Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
+
+
+## Inspiration
+- [Dribbble](https://dribbble.com/)
+- [Designspiration](http://designspiration.net/)
+- [Pattern Tap](http://patterntap.com/)
+- [Awwwards](http://www.awwwards.com/)
