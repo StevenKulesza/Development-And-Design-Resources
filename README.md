@@ -10,6 +10,7 @@
 ### Developement
 
 - [Codrops](http://tympanus.net/codrops/)
+- [Git Cheatsheet](https://services.github.com/kit/downloads/github-git-cheat-sheet.pdf)
 
 ### WordPress
 - [Underscores](http://underscores.me/)
