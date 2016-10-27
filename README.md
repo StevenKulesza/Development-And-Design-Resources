@@ -72,6 +72,7 @@
 - [JavaScript Charts: The Definitive Guide](http://www.fusioncharts.com/javascript-charts-guide/)
 - [What happens when you type google.com into your browser's address box and press enter](https://github.com/alex/what-happens-when)
 - [Front-end Job Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
+- [Front-end Standards Guide](http://codeguide.co/)
 
 
 ## Inspiration
